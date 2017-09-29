@@ -28,7 +28,7 @@ for i in range(int(end_time / dt)):
 
 plt.figure(figsize=(8,6)) 
 
-plt.plot(t,V,label="V(t)",color="green",linewidth=5)
+plt.plot(t,V,label="V(t)",color="blue",linewidth=5)
 
 plt.xlabel("t(s)") 
 
