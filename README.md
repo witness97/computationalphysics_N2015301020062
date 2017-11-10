@@ -8,3 +8,4 @@
  - [x] [第五次作业：Chapter2 exercise2.21](http://note.youdao.com/noteshare?id=4d0f2bb2939e292a54a8d94b86bd7467)
  - [x] [第六次作业：Chapter3 exercise3.13](http://note.youdao.com/noteshare?id=4fedb9bcea65926250eb8bafb61c781b)
  - [x] [第七次作业：Chapter3 exercise3.20](http://note.youdao.com/noteshare?id=86706863cd70369e0cbec48f5c931e61)
+ - [x] [第八次作业：Chapter3 exercise3.30](http://note.youdao.com/noteshare?id=bda34140752253524546b003d1ce4c83)
