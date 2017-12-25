@@ -12,3 +12,4 @@
  - [x] [第九次作业：Chapter4 exercise4.16](http://note.youdao.com/noteshare?id=5caae2eebbc88e7c5ea8d58b4540a346)
  - [x] [第十次作业：Chapter5 exercise5.1](http://note.youdao.com/noteshare?id=380f534a5d38d213c1cab6979eb43828)
  - [x] [第十一次作业：Chapter6 exercise6.6](http://note.youdao.com/noteshare?id=979a882e35b585b8776c0b0698d2c35b)
+ - [x] [期中作业：pygame](https://raw.githubusercontent.com/witness97/computationalphysics_N2015301020062/master/pygame.py)
