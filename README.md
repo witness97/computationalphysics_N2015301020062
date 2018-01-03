@@ -13,3 +13,5 @@
  - [x] [第十次作业：Chapter5 exercise5.1](http://note.youdao.com/noteshare?id=380f534a5d38d213c1cab6979eb43828)
  - [x] [第十一次作业：Chapter6 exercise6.6](http://note.youdao.com/noteshare?id=979a882e35b585b8776c0b0698d2c35b)
  - [x] [期中作业：pygame](https://raw.githubusercontent.com/witness97/computationalphysics_N2015301020062/master/pygame.py)
+ - [x] [final paper on Github](https://github.com/witness97/computationalphysics_N2015301020062/blob/master/%E7%8E%8B%E4%B8%96%E5%84%92%20Final%20paper.pdf)
+ - [x] [final paper 有道云](http://note.youdao.com/noteshare?id=e67ad8f4f06421f7495cae8963ad58f6)
